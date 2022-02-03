@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # R checkpoints
 .ipynb_checkpoints
+
+# Virtual Documents
+.virtual_documents
